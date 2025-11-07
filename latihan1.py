@@ -32,3 +32,5 @@ def total_rata():
     print(f"Rata-rata semua angka adalah {rata_rata}")
 
 total_rata()
+
+print("ini adalah perubahan untuk tugas ltik")
