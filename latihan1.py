@@ -34,3 +34,4 @@ def total_rata():
 total_rata()
 
 print("ini adalah perubahan untuk tugas ltik")
+print("ini adalah perubahan kedua untuk tugas ltik")
